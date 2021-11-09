@@ -8,7 +8,7 @@ body {
     -ms-overflow-style: none;  /* IE and Edge */
     scrollbar-width: none;  /* Firefox */
 
-    background-image : url("Static Files/bkgrd 1.png") ;
+    background-image : url('Static Files/bkgrd 1.png') ;
     
     /* opacity : 100%; */
     /* image-rendering: pixelated; */

@@ -8,7 +8,9 @@ body {
     -ms-overflow-style: none;  /* IE and Edge */
     scrollbar-width: none;  /* Firefox */
 
-    background-image : url("Static Files/bkgrd 1.png") ;
+    background-image : url("Static Files/photo-1598812866501-87ad598839e7.png") ;
+    /* background-image : url('Static Files/bkgrd 1.png') ; */
+
     /* image-rendering: pixelated; */
 
     background-size: 100% ;
